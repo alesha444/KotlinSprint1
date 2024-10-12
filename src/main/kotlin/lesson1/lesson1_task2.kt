@@ -8,6 +8,8 @@ fun main() {
     println("${notify}${numberOfOrders} \n${thankMessage}")
 
     var employees = 2000
+    //println("Всего в компании работает: ${employees}")
+    employees = 1999
     println("Всего в компании работает: ${employees}")
 
 
